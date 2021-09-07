@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "112914946875",
+    "project_id": "rmzattendance-14684",
+    "storage_bucket": "rmzattendance-14684.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:112914946875:android:f3c8a42b5624b54f3f751e",
+        "android_client_info": {
+          "package_name": "com.example.rmz_attendance"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "112914946875-vo559ahee2tj0u6p8ont226bmnk8li8g.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBSHuZibM2vvXALm3qoXjsa1ibBLjbg8I4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "112914946875-vo559ahee2tj0u6p8ont226bmnk8li8g.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
